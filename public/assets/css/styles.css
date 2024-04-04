@@ -1,11 +1,12 @@
-html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
-.save-note, .new-note, .clear-btn {
+.save-note,
+.new-note,
+.clear-btn {
   display: none;
 }
 
